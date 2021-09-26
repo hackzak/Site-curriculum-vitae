@@ -12,7 +12,7 @@ Cette version est la version de base que j'ai codé à partir de zéro, un site 
 
 ### Voici le lien du site : 
 
- <a href="https://kevinozkaraca.github.io/" target="_blank">Cliquer ICI !</a>
+ <a href="https://kevinozkaraca.github.io/Site-curriculum-vitae/" target="_blank">Cliquer ICI !</a>
   <br/>
 
 ### Vous pouvez également me suivre sur mes reseaux sociaux : 
