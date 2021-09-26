@@ -1,6 +1,6 @@
-### Site réalisé avec Django
+### Site réalisé à partir de zéro
 
-Bonjour, voici mon **premier projet** avec Django. Je partage avec vous ce site avec le code **commenté en français**.
+Bonjour, voici mon **premier projet**. Je partage avec vous ce site avec le code **commenté en français**.
 
 ### La version 1.0
 
