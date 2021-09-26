@@ -7,7 +7,7 @@ Bonjour, voici mon **premier projet**. Je partage avec vous ce site avec le code
 Cette version est la version de base que j'ai codé à partir de zéro, un site qui s'adapte **à toutes les tailles d'écran**. Mon objectif sera d'améliorer le code plus tard et de mettre à jour les informations et les versions du site.
 <br/>
 <p align="center">
-<img align="center" src="imagesReadme/version1-0.png" alt="Image de la version 1.0">
+<img align="center" src="imagesReadme/version1.png" alt="Image de la version 1.0">
 </p>
 
 ### Voici le lien du site : 
