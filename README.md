@@ -4,8 +4,13 @@ Bonjour, voici mon **premier projet**. Je partage avec vous ce site avec le code
 
 ### La version 1.0
 
-Cette version est la version de base que j'ai codé à partir de zéro, un site qui s'adapte **à toutes les tailles d'écran**. Mon objectif sera d'améliorer le code plus tard et de mettre à jour les informations et les versions du site.
+<p>Cette version est la version de base que j'ai codé à partir de zéro, un site qui s'adapte **à toutes les tailles d'écran**. Mon objectif sera d'améliorer le code plus tard et de mettre à jour les informations et les versions du site.
+Pour l'instant, il n'y a que l'entete du site, réalisé en HTML / CSS.
+</p>
 <br/>
+<p>
+Je code en mobile-first (pour téléphone mobile) avant d'adapter le site pour tablette et ordinateur.
+</p>
 <p align="center">
 <img align="center" src="imagesReadme/version1.png" alt="Image de la version 1.0">
 </p>
